@@ -1,0 +1,578 @@
+[
+    {
+        "hostname": "api.github.com",
+        "ip": "140.82.121.5"
+    },
+    {
+        "hostname": "updates.discord.com",
+        "ip": "162.159.135.232"
+    },
+    {
+        "hostname": "badges.vencord.dev",
+        "ip": "188.114.97.3"
+    },
+    {
+        "hostname": "cdn.discordapp.com",
+        "ip": "162.159.133.233"
+    },
+    {
+        "hostname": "discord.com",
+        "ip": "162.159.136.232"
+    },
+    {
+        "hostname": "luckfire.github.io",
+        "ip": "185.199.108.153"
+    },
+    {
+        "hostname": "media.discordapp.net",
+        "ip": "162.159.130.232"
+    },
+    {
+        "hostname": "status.discord.com",
+        "ip": "162.159.138.232"
+    },
+    {
+        "hostname": "104.29.148.12",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.158",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.190",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.20",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.216",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.78",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.86",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.146",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.170",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.202",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.245",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.28",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.115",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.12",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.145",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.175",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.177",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.38",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.70",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.89",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.164",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.169",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.176",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.214",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.236",
+        "ip": ""
+    },
+    {
+        "hostname": "34.1.252.214",
+        "ip": ""
+    },
+    {
+        "hostname": "latency.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "rotterdam11257.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "gateway-us-east1-b.discord.gg",
+        "ip": "162.159.133.234"
+    },
+    {
+        "hostname": "update.googleapis.com",
+        "ip": "216.58.211.227"
+    },
+    {
+        "hostname": "gateway.discord.gg",
+        "ip": "162.159.130.234"
+    },
+    {
+        "hostname": "34.1.253.108",
+        "ip": ""
+    },
+    {
+        "hostname": "images-ext-1.discordapp.net",
+        "ip": "162.159.134.232"
+    },
+    {
+        "hostname": "104.29.153.192",
+        "ip": ""
+    },
+    {
+        "hostname": "c-ams07-ccdafa61.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "rotterdam11255.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "35.214.214.86",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11286.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "35.214.205.130",
+        "ip": ""
+    },
+    {
+        "hostname": "35.214.159.205",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11137.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.214.133.102",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11180.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.214.153.113",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11200.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "35.214.222.149",
+        "ip": ""
+    },
+    {
+        "hostname": "c-ams08-4b18c205.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "rotterdam11073.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "rotterdam11097.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "rotterdam11240.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "35.214.158.181",
+        "ip": ""
+    },
+    {
+        "hostname": "35.214.179.87",
+        "ip": ""
+    },
+    {
+        "hostname": "c-ams17-898b187.discord.media",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11077.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "104.29.153.220",
+        "ip": ""
+    },
+    {
+        "hostname": "35.214.250.53",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11035.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "35.214.244.123",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11118.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.214.244.45",
+        "ip": ""
+    },
+    {
+        "hostname": "35.214.194.190",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11057.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "34.1.235.243",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11287.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "35.214.132.105",
+        "ip": ""
+    },
+    {
+        "hostname": "c-ams19-271c7da1.discord.media",
+        "ip": "162.159.130.235"
+    },
+    {
+        "hostname": "rotterdam11248.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "rotterdam11141.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "35.214.137.47",
+        "ip": ""
+    },
+    {
+        "hostname": "34.1.235.235",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11219.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.214.241.18",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11100.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "rotterdam11169.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.214.187.212",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11001.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "35.214.151.181",
+        "ip": ""
+    },
+    {
+        "hostname": "35.214.140.69",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11195.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "166.181.214.35.bc.googleusercontent.com",
+        "ip": "35.214.181.166"
+    },
+    {
+        "hostname": "rotterdam11256.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "35.214.204.91",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.153.176",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.153.229",
+        "ip": ""
+    },
+    {
+        "hostname": "c-ams20-ec9d62db.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "c-ams15-531c1b55.discord.media",
+        "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "c-ams07-ff587ae7.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "35.214.139.217",
+        "ip": ""
+    },
+    {
+        "hostname": "rotterdam11159.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "rotterdam11237.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "104.29.148.101",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.111",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.154",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.171",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.201",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.72",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.75",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.148.8",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.19",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.252",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.6",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.73",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.149.90",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.113",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.166",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.22",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.150.32",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.179",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.182",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.155.238",
+        "ip": ""
+    },
+    {
+        "hostname": "34.1.224.50",
+        "ip": ""
+    },
+    {
+        "hostname": "frankfurt10009.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.207.151.61",
+        "ip": ""
+    },
+    {
+        "hostname": "frankfurt3687.discord.media",
+        "ip": "162.159.130.235"
+    },
+    {
+        "hostname": "66.22.243.182",
+        "ip": ""
+    },
+    {
+        "hostname": "104.29.146.190",
+        "ip": ""
+    },
+    {
+        "hostname": "35.207.139.43",
+        "ip": ""
+    },
+    {
+        "hostname": "c-fra13-146d015e.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "frankfurt10006.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "66.22.243.181",
+        "ip": ""
+    },
+    {
+        "hostname": "frankfurt1346.discord.media",
+        "ip": "162.159.130.235"
+    },
+    {
+        "hostname": "frankfurt1045.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "66.22.243.56",
+        "ip": ""
+    },
+    {
+        "hostname": "c-fra03-fb18d7fc.discord.media",
+        "ip": "162.159.130.235"
+    },
+    {
+        "hostname": "finland10010.discord.media",
+        "ip": "162.159.130.235"
+    },
+    {
+        "hostname": "35.217.49.168",
+        "ip": ""
+    },
+    {
+        "hostname": "c-fra13-ee817f58.discord.media",
+        "ip": "162.159.128.235"
+    },
+    {
+        "hostname": "finland10040.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "35.217.47.222",
+        "ip": ""
+    },
+    {
+        "hostname": "35.217.48.26",
+        "ip": ""
+    },
+    {
+        "hostname": "finland10143.discord.media",
+        "ip": "162.159.129.235"
+    },
+    {
+        "hostname": "35.217.20.199",
+        "ip": ""
+    },
+    {
+        "hostname": "finland10078.discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "104.29.147.133",
+        "ip": ""
+    },
+    {
+        "hostname": "35.207.188.57",
+        "ip": ""
+    },
+    {
+        "hostname": "frankfurt10008.discord.media",
+        "ip": "162.159.137.234"
+    }
+]
