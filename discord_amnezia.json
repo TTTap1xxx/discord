@@ -582,5 +582,13 @@
     {
         "hostname": "frankfurt2246.discord.media",
         "ip": "162.159.138.234"
+    },
+    {
+        "hostname": "35.217.59.122",
+        "ip": ""
+    },
+    {
+        "hostname": "finland10051.discord.media",
+        "ip": "162.159.130.235"
     }
 ]
