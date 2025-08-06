@@ -574,5 +574,13 @@
     {
         "hostname": "frankfurt10008.discord.media",
         "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "66.22.243.44",
+        "ip": ""
+    },
+    {
+        "hostname": "frankfurt2246.discord.media",
+        "ip": "162.159.138.234"
     }
 ]
